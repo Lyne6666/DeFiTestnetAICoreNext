@@ -1,2 +1,1 @@
-# DeFiTestnetAICoreNext
-Advanced DeFiTestnetAICoreNext project
+.
